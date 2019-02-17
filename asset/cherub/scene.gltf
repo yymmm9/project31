@@ -1,0 +1,335 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3827,
+      "max": [
+        31.061199188232422,
+        -62.067901611328125,
+        8.7138996124267578
+      ],
+      "min": [
+        -31.061199188232422,
+        -124.01699829101562,
+        -10.075099945068359
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 45924,
+      "componentType": 5126,
+      "count": 3827,
+      "max": [
+        0.99996072053909302,
+        0.99852567911148071,
+        0.99999940395355225
+      ],
+      "min": [
+        -0.99996072053909302,
+        -0.99852383136749268,
+        -0.9999956488609314
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3827,
+      "max": [
+        0.99999552965164185,
+        0.99721240997314453,
+        0.19235154986381531,
+        1
+      ],
+      "min": [
+        -0.99999934434890747,
+        -0.99720364809036255,
+        -0.9999881386756897,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 22176,
+      "max": [
+        3826
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 91848,
+      "componentType": 5126,
+      "count": 14604,
+      "max": [
+        20.222999572753906,
+        -72.026199340820312,
+        115.85299682617188
+      ],
+      "min": [
+        -25.326099395751953,
+        -132.65499877929688,
+        4.5634198188781738
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 267096,
+      "componentType": 5126,
+      "count": 14604,
+      "max": [
+        0.99999445676803589,
+        0.99990910291671753,
+        0.99995481967926025
+      ],
+      "min": [
+        -0.99996471405029297,
+        -0.99941235780715942,
+        -0.9997328519821167
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 61232,
+      "componentType": 5126,
+      "count": 14604,
+      "max": [
+        0.99956238269805908,
+        0.99987906217575073,
+        0.99996709823608398,
+        1
+      ],
+      "min": [
+        -0.99980050325393677,
+        -0.99991053342819214,
+        -0.99991762638092041,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 14604,
+      "max": [
+        0.96968001127243042,
+        0.99529999494552612
+      ],
+      "min": [
+        0.005859999917447567,
+        0.0039099999703466892
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 88704,
+      "componentType": 5125,
+      "count": 77904,
+      "max": [
+        14603
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Marcelo Rivera (https://sketchfab.com/locobox)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/8c1daf56753d46a0844f7f6385cab7a6",
+      "title": "Old Cherub Vase"
+    },
+    "generator": "Sketchfab-3.29.3",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 400320,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 116832,
+      "byteOffset": 400320,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 442344,
+      "byteOffset": 517152,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 294896,
+      "byteOffset": 959496,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1254392,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Cherub_Vase_baseColor.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Base",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.36470599999999997,
+          0.30588199999999999,
+          0.258824,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Cherub_Vase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6,
+            "TEXCOORD_0": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Cherub Vase.obj.cleaner"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
